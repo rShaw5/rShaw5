@@ -4,6 +4,8 @@ I'm a Full-Stack (backend focus) engineer. I spend most of my time in PHP and La
 
 **Stack:** PHP · Laravel · Vue · JavaScript · MySQL · Docker · GitHub Actions
 
-**Currently:** Job searching. Open to backend/full-stack SaaS roles and TPM roles on technical teams. Strongly prefer remote.
+**Currently:** Job searching. Open to backend/full-stack SaaS roles and TPM roles on technical teams.
 
 I'm also spending time on security fundamentals — working through OWASP, application security patterns, and CTF-style exercises to sharpen that side of my engineering practice.
+
+I'm also building with AI tooling — actively using Claude Code and AI-assisted workflows in daily practice. Early advocate internally at Leasecake: delivered company-wide education on LLM fundamentals before it became standard.
