@@ -24,7 +24,7 @@ In early 2025 I built the platform's first pre-delivery verification system. Its
 
 ### Tools
 
-`PHP (Laravel)` `MySQL` `Vue` `JavaScript` `Docker` `GitHub Actions` `Python` `C / C++` `C#`
+`Root cause analysis` `Data validation` `Test automation` `Python` `MySQL` `Vue` `JavaScript` `Docker` `GitHub Actions` `C / C++` `C#` `PHP (Laravel)`
 
 ### Projects
 
