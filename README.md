@@ -34,6 +34,10 @@ I'm open to backend engineering roles in any stack. Longer term I'm aiming at sc
 
 **[tle-checker](https://github.com/rShaw5/tle-checker)** · Checks public satellite orbit data and flags rows that can't be trusted: bad checksums, mismatched lines, impossible orbits, stale data and duplicates. Run against all 15,910 active satellites in CelesTrak's feed. Python, 98 tests.
 
+### Outside work
+
+[Quest-Based Networking](https://questbasednetworking.com): a talk I gave and a site I built.
+
 ### Contact
 
 A message on [LinkedIn](https://www.linkedin.com/in/rshaw5/) is the best way to reach me.
