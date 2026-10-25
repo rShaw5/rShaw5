@@ -30,7 +30,7 @@ In early 2025 I built the platform's first pre-delivery verification system. Its
 
 **[sqs-lambda-pipeline](https://github.com/rShaw5/sqs-lambda-pipeline)** · An AWS pipeline (SQS, Lambda, DynamoDB, Terraform) that validates every record, skips repeats, and sends failures to a dead-letter queue. A 1,000-record test came out exactly right: 930 saved, 50 rejected, 20 duplicates.
 
-**[tle-checker](https://github.com/rShaw5/tle-checker)** · Checks public satellite orbit data and flags rows that can't be trusted: bad checksums, mismatched lines, impossible orbits, stale data and duplicates. Run against all 15,910 active satellites in CelesTrak's feed. Python, 98 tests.
+**[tle-checker](https://github.com/rShaw5/tle-checker)** · Checks public satellite orbit data and flags rows that can't be trusted: bad checksums, mismatched lines, impossible orbits, stale data and duplicates. Run against all 15,910 orbit rows in CelesTrak's feed. Python, 98 tests.
 
 ### Outside work
 
