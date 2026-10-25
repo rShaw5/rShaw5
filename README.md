@@ -22,8 +22,6 @@ I spent six years at Leasecake building a multi-tenant SaaS platform. I wrote th
 
 In early 2025 I built the platform's first pre-delivery verification system. Its consistency and regression checks block any report that fails before it reaches a customer.
 
-Longer term I'm aiming at science and space teams, where data has to be right for the people relying on it.
-
 ### Tools
 
 `PHP (Laravel)` `MySQL` `Vue` `JavaScript` `Docker` `GitHub Actions` `Python` `C / C++` `C#`
