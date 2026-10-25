@@ -2,9 +2,9 @@
 
 # Robin Shaw
 
-### Backend Engineer | I build checks that stop wrong numbers before customers see them
+### Software engineer. I build checks that stop wrong numbers before people see them, and I traced a $2.3 million error to one missing record.
 
-I'm a backend engineer. I was the sole owner of a production accounting system, and I traced a $2.3 million error back to one missing record.
+I'm a software engineer. I was the sole owner of a production accounting system, and I traced a $2.3 million error back to one missing record.
 
 [**Portfolio**](https://rshaw5.github.io) · [**LinkedIn**](https://www.linkedin.com/in/rshaw5/) · Kitsap County (Seattle area)
 
