@@ -22,7 +22,7 @@ I spent six years at Leasecake building a multi-tenant SaaS platform. I wrote th
 
 In early 2025 I built the platform's first pre-delivery verification system. Its consistency and regression checks block any report that fails before it reaches a customer.
 
-I'm open to backend engineering roles in any stack. Longer term I'm aiming at science and space teams, where data has to be right for the people relying on it.
+Longer term I'm aiming at science and space teams, where data has to be right for the people relying on it.
 
 ### Tools
 
